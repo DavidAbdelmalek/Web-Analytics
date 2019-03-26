@@ -1,0 +1,4 @@
+# Undirected graph (each unordered pair of nodes is saved once): Graph_1.txt
+# Save as tab-separated list of edges
+# Nodes: 20 Edges: 0
+# NodeId	NodeId
